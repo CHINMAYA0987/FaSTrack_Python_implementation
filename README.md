@@ -1,6 +1,6 @@
 # FasTRack_Python_implementation
 
-A recreated Python implementation of the FasTrack framework for safe, real-time motion planning and control.
+A recreated Python implementation of the FasTrack framework for safe, real-time motion planning and control (part of ECS618 project).
 
 This project includes a recreation of the 5D–3D vehicle model example from the original FasTrack paper, with all constraints and dynamics faithfully implemented.
 
