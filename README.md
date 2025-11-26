@@ -23,13 +23,11 @@ https://doi.org/10.48550/arXiv.2102.07039
 
 
 
-@article{bansal2020fastrack,
-  title        = {Safe Real-Time Motion Planning With Fast and Complete Trajectory Tracking},
-  author       = {Bansal, Somil and Chen, Mo and Herbert, Sylvia and Tomlin, Claire},
-  journal      = {IEEE Transactions on Automatic Control},
-  volume       = {66},
-  number       = {11},
-  pages        = {4938--4953},
-  year         = {2021},
-  publisher    = {IEEE}
+@inproceedings{herbert2017fastrack,
+  title={FaSTrack: A modular framework for fast and guaranteed safe motion planning},
+  author={Herbert, Sylvia L and Chen, Mo and Han, SooJean and Bansal, Somil and Fisac, Jaime F and Tomlin, Claire J},
+  booktitle={2017 IEEE 56th Annual Conference on Decision and Control (CDC)},
+  pages={1517--1522},
+  year={2017},
+  organization={IEEE}
 }
