@@ -32,6 +32,6 @@ https://doi.org/10.48550/arXiv.2102.07039
   organization={IEEE}
 }
 
-<p align="center">
-  <img src="Fastrack5D3D..gif" width="500">
-</p>
+🎥 Demo
+
+![FasTrack Demo](Fastrack5D3D.gif)
