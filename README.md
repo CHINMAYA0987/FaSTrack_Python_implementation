@@ -1,4 +1,4 @@
-# FasTRack_Python_implementation
+# FaSTrack_Python_implementation
 
 A recreated Python implementation of the FasTrack framework for safe, real-time motion planning and control (part of ECS618 project).
 
